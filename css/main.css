@@ -1,0 +1,108 @@
+sc {
+  font-size: 20px;
+  font-variant: small-caps;
+}
+#cv{
+	width1000px;
+	margin-right:150px;
+       margin-left:150px;
+}
+#identity{
+	background-color:white;
+	text-align:left;
+	padding: 5px ;
+	
+	
+}
+.sections{
+	background-color:white;
+		padding: 5px ;
+	
+}
+.section-name{
+	background-color:white;
+		float:left;
+}
+.section-item{
+	
+}
+
+img
+{
+float:right;
+margin: 5px;
+}
+body
+{
+background-color:white;
+font-family:"Calibri";	
+	font-size:20px;
+}
+#contact{
+	float:right;
+}
+h1
+{
+
+font-family:"URW Chancery L, cursive";
+font-size:35px;
+margin: 5px ;
+color:#484D46;
+}
+h2
+{color:black;
+text-align:left;
+font-family:"Calibri";
+font-size:30px;
+
+}
+h3{
+	color:#484D46;
+font-family:"Calibri";
+font-size:25px;
+margin: 5px ;
+}
+h4{
+	color:#484D46;
+	font-family: "Calibri";
+	font-size: 20px;
+	margin: 5px ;
+}
+h5{
+color:#484D46;
+font-family:"Calibri";
+font-size:25px;
+
+}
+h6{
+	color:black;
+font-family:"Calibri";
+font-size:20px;
+}
+h7{
+font-weight:bold;
+}
+
+.date{
+	float:right;
+	font-weight:bold;
+	padding:2px;
+}
+.title{
+	
+	font-weight:bold;
+}
+.separator{
+	background-color:#E5C6E5;
+	padding: 4px;
+
+}
+p
+{
+font-family:"Calibri";
+font-size:18px;
+}
+
+
+
+
