@@ -50,7 +50,7 @@ margin: 5px ;
 color:#484D46;
 }
 h2
-{color:black;
+{color:#484D46;
 text-align:left;
 font-family:"Calibri";
 font-size:30px;
@@ -114,7 +114,6 @@ font-size:18px;
 .form {
   height: 590px;
   width: 500px;
-  margin: -500px auto;
   border-radius: 10px;
   padding: 5px 5px;
 }
