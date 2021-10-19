@@ -5,7 +5,7 @@
 
   $email_from = 'garymarie@garymarie.com';
 
-  $email_subject = "New Form submission";
+  $email_subject = "New RSVP";
 
   $email_body = "You have received a new message from the user $name.\n".
                             "Here is the message:\n $message".
