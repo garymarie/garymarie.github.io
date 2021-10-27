@@ -152,7 +152,7 @@ input:focus {
   display: inline-block;
   width: 400px;
 }
-button {
+button[type=submit] {
   color: #666;
   background-color: #ffbdc7;
   border: none;
